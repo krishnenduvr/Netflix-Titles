@@ -1,2 +1,2 @@
 # Netflix-Titles
-predicting type
+Netflix titles classification
